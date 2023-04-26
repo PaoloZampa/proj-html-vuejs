@@ -1,0 +1,48 @@
+{
+  "customers": [
+    {
+      "name": "Tara Smith",
+      "age": 25,
+      "phrase": "alice@example.com",
+      "image": "../assets/img/review_1-compressor"
+    },
+    {
+      "name": "Simon Chel",
+      "age": 32,
+      "phrase": "bob@example.com Look no further than our team of expert personal trainers! Whether you're a beginner",
+      "image": "../assets/img/review_2-compressor"
+    },
+    {
+      "name": "Jen Wirth",
+      "age": 22,
+      "phrase": "alice@example.com Look no further than our team of expert personal trainers! Whether you're a beginner",
+      "image": "../assets/img/review_1-compressor-2"
+    },
+    {
+      "name": "Jeff Glum",
+      "age": 38,
+      "phrase": "bob@example.com Look no further than our team of expert personal trainers! Whether you're a beginner",
+      "image": "../assets/img/review_1-compressor-2"
+    }
+  ],
+  "trainers": [
+    {
+      "name": "Ann Baker",
+      "role": "Personal Trainer",
+      "phrase": "Look no further than our team of expert personal trainers! Whether you're a beginner or an experienced athlete, we have the knowledge and experience to help you reach your fitness goals.",
+      "image": ""
+    },
+    {
+      "name": "Anne Warren",
+      "role": "Personal Trainer",
+      "phrase": "Look no further than our team of expert personal trainers! Whether you're a beginner or an experienced athlete, we have the knowledge and experience to help you reach your fitness goals.",
+      "image": ""
+    },
+    {
+      "name": "Peter Rice",
+      "role": "Personal Trainer",
+      "phrase": "Look no further than our team of expert personal trainers! Whether you're a beginner or an experienced athlete, we have the knowledge and experience to help you reach your fitness goals.",
+      "image": ""
+    }
+  ]
+}

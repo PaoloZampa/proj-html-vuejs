@@ -5,22 +5,22 @@ export default {
 </script>
 
 <template>
-    <div class="jumbotron">
+    <div class="jumbotron w-100">
         <div class="container text-center">
-        <div class="title">
-            <h1 class="">
-                NO PAIN NO GAIN
-            </h1>
+            <div class="title">
+                <h1 class="">
+                    NO PAIN NO GAIN
+                </h1>
+            </div>
+            <div class="jumbo_span my-3">
+                <span>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque ea eum alias perspiciatis voluptate
+                </span>
+            </div>
+            <div class="jumbo_button my-3">
+                <a href="#">Join us today</a>
+            </div>
         </div>
-        <div class="jumbo_span my-3">
-            <span>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque ea eum alias perspiciatis voluptate
-            </span>
-        </div>
-        <div class="jumbo_button my-3">
-            <a href="#">Join us today</a>
-        </div>
-    </div>
     </div>
 </template>
 
@@ -38,9 +38,10 @@ export default {
         padding: 0.5rem 2rem;
         border: 1px solid $Light;
         color: $Light;
-    } h1 {
+    }
+
+    h1 {
         font-size: 7rem;
     }
 }
-
 </style>
