@@ -1,0 +1,24 @@
+{
+    "options": [
+      {
+        "name": "Tara Smith",
+        "phrase": "alice@example.com",
+        "image": "../assets/img/review_1-compressor"
+      },
+      {
+        "name": "Simon Chel",
+        "phrase": "bob@example.com Look no further than our team of expert personal trainers! Whether you're a beginner",
+        "image": "../assets/img/review_2-compressor"
+      },
+      {
+        "name": "Jen Wirth",
+        "phrase": "alice@example.com Look no further than our team of expert personal trainers! Whether you're a beginner",
+        "image": "../assets/img/review_1-compressor-2"
+      },
+      {
+        "name": "Jeff Glum",
+        "phrase": "bob@example.com Look no further than our team of expert personal trainers! Whether you're a beginner",
+        "image": "../assets/img/review_1-compressor-2"
+      }
+    ]
+  }

@@ -3,6 +3,7 @@ import Jumbotron from "./Jumbotron.vue";
 import RealWorldResults from "./RealWorldResults.vue";
 import WorldClassGym from "./WorldClassGym.vue";
 import FormSection from "./FormSection.vue";
+import OptionsSection from "./OptionsSection.vue"
 
 export default {
   name: "AppMain",
@@ -11,6 +12,7 @@ export default {
     RealWorldResults,
     WorldClassGym,
     FormSection,
+    OptionsSection,
 },
   data() {
     return {
@@ -24,6 +26,7 @@ export default {
     <Jumbotron></Jumbotron>
     <WorldClassGym></WorldClassGym>
     <FormSection></FormSection>
+    <OptionsSection></OptionsSection>
     <RealWorldResults></RealWorldResults>
   </main>
 </template>

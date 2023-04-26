@@ -36,7 +36,7 @@ export default {
     background-color: $SharkLight;
     color: $Light;
     h3 {
-        font-weight: 900;
+        font-weight: 700;
     }
 
     input{
